@@ -24,8 +24,6 @@ This project is an end-to-end Machine Learning and Supply Chain Analytics soluti
 4. Train models: `python src/train_model.py`
 5. Run Dashboard: `streamlit run app/app.py`
 
-## 📊 Live Demo
-[Link to your deployed Streamlit App here]
-
 ## 👨‍💻 Author
-[Your Name] - [Your LinkedIn URL]
+ASMIT SNAI
+
